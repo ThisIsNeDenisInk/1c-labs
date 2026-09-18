@@ -9,3 +9,4 @@
 | **Лабораторная работа №1** | [DT](./Lab_01/lab1_base.dt) | [PDF](./Lab_01/LAB01.pdf) |
 | **Лабораторная работа №2** | [DT](./Lab_02/lab2_base.dt) | [PDF](./Lab_02/LAB02.pdf) |
 | **Лабораторная работа №3** | [DT](./Lab_03/lab3_base.dt) | [PDF](./Lab_03/LAB03.pdf) |
+| **Лабораторная работа №4** | [DT](./Lab_04/lab4_base.dt) | [PDF](./Lab_04/LAB04.pdf) |
