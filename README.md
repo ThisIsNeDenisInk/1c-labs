@@ -13,3 +13,4 @@
 | **Лабораторная работа №4** | [DT](./Lab_04/lab4_base.dt) | [PDF](./Lab_04/LAB04.pdf) |
 | **Лабораторная работа №5** | [DT](./Lab_05/lab5_base.dt) | [PDF](./Lab_05/LAB05.pdf) |
 | **Лабораторная работа №6** | [DT](./Lab_06/lab6_base.dt) | [PDF](./Lab_06/LAB06.pdf) |
+| **Лабораторная работа №7** | [ZIP](./Lab_07/lab7.zip) | [PDF](./Lab_07/LAB07.pdf) |
