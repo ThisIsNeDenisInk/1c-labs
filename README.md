@@ -7,8 +7,8 @@
 
 | Название работы | Слепок БД | Отчёт по работе |
 | :--- | :---: | :---: |
-| **Лабораторная работа №1** | [DT](./Lab_01/lab1_base.dt?raw=true) | [PDF](./Lab_01/LAB01.pdf?raw=true) |
-| **Лабораторная работа №2** | [DT](./Lab_02/lab2_base.dt?raw=true) | [PDF](./Lab_02/LAB02.pdf?raw=true) |
+| **Лабораторная работа №1** | [[DT]](./Lab_01/lab1_base.dt?raw=true) | [PDF](./Lab_01/LAB01.pdf?raw=true) |
+| **Лабораторная работа №2** | [[DT]](./Lab_02/lab2_base.dt?raw=true) | [PDF](./Lab_02/LAB02.pdf?raw=true) |
 | **Лабораторная работа №3** | [DT](./Lab_03/lab3_base.dt?raw=true) | [PDF](./Lab_03/LAB03.pdf?raw=true) |
 | **Лабораторная работа №4** | [DT](./Lab_04/lab4_base.dt?raw=true) | [PDF](./Lab_04/LAB04.pdf?raw=true) |
 | **Лабораторная работа №5** | [DT](./Lab_05/lab5_base.dt?raw=true) | [PDF](./Lab_05/LAB05.pdf?raw=true) |
