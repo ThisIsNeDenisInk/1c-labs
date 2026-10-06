@@ -7,10 +7,10 @@
 
 | Название работы | Слепок БД | Отчёт по работе |
 | :--- | :---: | :---: |
-| **Лабораторная работа №1** | [[DT]](./Lab_01/lab1_base.dt?raw=true) | [PDF](./Lab_01/LAB01.pdf?raw=true) |
-| **Лабораторная работа №2** | [[DT]](./Lab_02/lab2_base.dt?raw=true) | [PDF](./Lab_02/LAB02.pdf?raw=true) |
-| **Лабораторная работа №3** | [DT](./Lab_03/lab3_base.dt?raw=true) | [PDF](./Lab_03/LAB03.pdf?raw=true) |
-| **Лабораторная работа №4** | [DT](./Lab_04/lab4_base.dt?raw=true) | [PDF](./Lab_04/LAB04.pdf?raw=true) |
-| **Лабораторная работа №5** | [DT](./Lab_05/lab5_base.dt?raw=true) | [PDF](./Lab_05/LAB05.pdf?raw=true) |
-| **Лабораторная работа №6** | [DT](./Lab_06/lab6_base.dt?raw=true) | [PDF](./Lab_06/LAB06.pdf?raw=true) |
-| **Лабораторная работа №7** | [ZIP](./Lab_07/lab7.zip?raw=true) | [PDF](./Lab_07/LAB07.pdf?raw=true) |
+| **Лабораторная работа №1** | [DT](./Lab_01/lab1_base.dt) | [PDF](./Lab_01/LAB01.pdf) |
+| **Лабораторная работа №2** | [DT](./Lab_02/lab2_base.dt) | [PDF](./Lab_02/LAB02.pdf) |
+| **Лабораторная работа №3** | [DT](./Lab_03/lab3_base.dt) | [PDF](./Lab_03/LAB03.pdf) |
+| **Лабораторная работа №4** | [DT](./Lab_04/lab4_base.dt) | [PDF](./Lab_04/LAB04.pdf) |
+| **Лабораторная работа №5** | [DT](./Lab_05/lab5_base.dt) | [PDF](./Lab_05/LAB05.pdf) |
+| **Лабораторная работа №6** | [DT](./Lab_06/lab6_base.dt) | [PDF](./Lab_06/LAB06.pdf) |
+| **Лабораторная работа №7** | [ZIP](./Lab_07/lab7.zip) | [PDF](./Lab_07/LAB07.pdf) |
